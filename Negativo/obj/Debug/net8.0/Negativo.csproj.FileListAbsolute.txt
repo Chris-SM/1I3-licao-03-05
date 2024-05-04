@@ -1,0 +1,14 @@
+C:\Users\user\1I3-licao-03-05\Negativo\bin\Debug\net8.0\Negativo.exe
+C:\Users\user\1I3-licao-03-05\Negativo\bin\Debug\net8.0\Negativo.deps.json
+C:\Users\user\1I3-licao-03-05\Negativo\bin\Debug\net8.0\Negativo.runtimeconfig.json
+C:\Users\user\1I3-licao-03-05\Negativo\bin\Debug\net8.0\Negativo.dll
+C:\Users\user\1I3-licao-03-05\Negativo\bin\Debug\net8.0\Negativo.pdb
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.AssemblyInfoInputs.cache
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.AssemblyInfo.cs
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.csproj.CoreCompileInputs.cache
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.dll
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\refint\Negativo.dll
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.pdb
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\Negativo.genruntimeconfig.cache
+C:\Users\user\1I3-licao-03-05\Negativo\obj\Debug\net8.0\ref\Negativo.dll

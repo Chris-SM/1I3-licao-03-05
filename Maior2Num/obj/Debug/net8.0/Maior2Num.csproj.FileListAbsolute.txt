@@ -1,0 +1,14 @@
+C:\Users\user\1I3-licao-03-05\Maior2Num\bin\Debug\net8.0\Maior2Num.exe
+C:\Users\user\1I3-licao-03-05\Maior2Num\bin\Debug\net8.0\Maior2Num.deps.json
+C:\Users\user\1I3-licao-03-05\Maior2Num\bin\Debug\net8.0\Maior2Num.runtimeconfig.json
+C:\Users\user\1I3-licao-03-05\Maior2Num\bin\Debug\net8.0\Maior2Num.dll
+C:\Users\user\1I3-licao-03-05\Maior2Num\bin\Debug\net8.0\Maior2Num.pdb
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.AssemblyInfoInputs.cache
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.AssemblyInfo.cs
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.csproj.CoreCompileInputs.cache
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.dll
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\refint\Maior2Num.dll
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.pdb
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\Maior2Num.genruntimeconfig.cache
+C:\Users\user\1I3-licao-03-05\Maior2Num\obj\Debug\net8.0\ref\Maior2Num.dll

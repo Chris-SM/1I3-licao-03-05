@@ -1,0 +1,14 @@
+C:\Users\user\1I3-licao-03-05\Senha\bin\Debug\net8.0\Senha.exe
+C:\Users\user\1I3-licao-03-05\Senha\bin\Debug\net8.0\Senha.deps.json
+C:\Users\user\1I3-licao-03-05\Senha\bin\Debug\net8.0\Senha.runtimeconfig.json
+C:\Users\user\1I3-licao-03-05\Senha\bin\Debug\net8.0\Senha.dll
+C:\Users\user\1I3-licao-03-05\Senha\bin\Debug\net8.0\Senha.pdb
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.AssemblyInfoInputs.cache
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.AssemblyInfo.cs
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.csproj.CoreCompileInputs.cache
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.dll
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\refint\Senha.dll
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.pdb
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\Senha.genruntimeconfig.cache
+C:\Users\user\1I3-licao-03-05\Senha\obj\Debug\net8.0\ref\Senha.dll
